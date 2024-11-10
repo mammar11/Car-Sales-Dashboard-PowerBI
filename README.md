@@ -1,4 +1,5 @@
 # Car Sales Dashboard in Power BI
+![Car Sales Dashboard Screenshot](Screenshot.png)
 
 ![Power BI](https://img.shields.io/badge/Power%20BI-Dashboard-yellow)
 
